@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/The-Public-Wala/static/css/main.7ca9a6b7.css",
-    "main.js": "/The-Public-Wala/static/js/main.35d3cc31.js",
-    "static/js/787.4c026eef.chunk.js": "/The-Public-Wala/static/js/787.4c026eef.chunk.js",
-    "index.html": "/The-Public-Wala/index.html",
-    "main.7ca9a6b7.css.map": "/The-Public-Wala/static/css/main.7ca9a6b7.css.map",
-    "main.35d3cc31.js.map": "/The-Public-Wala/static/js/main.35d3cc31.js.map",
-    "787.4c026eef.chunk.js.map": "/The-Public-Wala/static/js/787.4c026eef.chunk.js.map"
+    "main.css": "/The-Public-Wala-function-based-component/static/css/main.7ca9a6b7.css",
+    "main.js": "/The-Public-Wala-function-based-component/static/js/main.9a6e9fb5.js",
+    "static/js/787.4c026eef.chunk.js": "/The-Public-Wala-function-based-component/static/js/787.4c026eef.chunk.js",
+    "index.html": "/The-Public-Wala-function-based-component/index.html",
+    "main.7ca9a6b7.css.map": "/The-Public-Wala-function-based-component/static/css/main.7ca9a6b7.css.map",
+    "main.9a6e9fb5.js.map": "/The-Public-Wala-function-based-component/static/js/main.9a6e9fb5.js.map",
+    "787.4c026eef.chunk.js.map": "/The-Public-Wala-function-based-component/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ca9a6b7.css",
-    "static/js/main.35d3cc31.js"
+    "static/js/main.9a6e9fb5.js"
   ]
 }
